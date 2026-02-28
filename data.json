@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "NOVARISE",
+    "subtitle": "Trading and Contracting Company",
+    "description": "A leading force in Saudi Arabia's industrial landscape, delivering excellence across construction, power, and specialized trading for over a decade."
+  },
+  "about": {
+    "title": "A Decade of Excellence in the Kingdom",
+    "description": "Founded on the principles of reliability and innovation, Novarise Trading and Contracting Company has grown from a specialized trading firm into a multi-disciplinary industrial powerhouse."
+  },
+  "pages": [
+    {
+      "id": "home",
+      "slug": "home",
+      "title": "Home",
+      "blocks": [
+        { "id": "b1", "type": "hero", "content": { "title": "NOVARISE", "subtitle": "Trading and Contracting Company", "description": "A leading force in Saudi Arabia's industrial landscape." } },
+        { "id": "b2", "type": "about", "content": { "title": "About Us", "description": "Founded on principles of reliability." } }
+      ]
+    }
+  ]
+}
